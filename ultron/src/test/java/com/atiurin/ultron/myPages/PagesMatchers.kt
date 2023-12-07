@@ -1,6 +1,7 @@
 package com.atiurin.sampleapp.myPages
 
 import android.view.View
+import androidx.compose.material.icons.extended.R
 import androidx.test.espresso.matcher.ViewMatchers
 import androidx.test.espresso.matcher.ViewMatchers.withContentDescription
 import androidx.test.espresso.matcher.ViewMatchers.withId
